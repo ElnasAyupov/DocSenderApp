@@ -1,0 +1,12 @@
+D:\users\EAyupov\source\repos\DocsSenderApp\bin\Debug\netcoreapp2.0\DocsSenderApp.deps.json
+D:\users\EAyupov\source\repos\DocsSenderApp\bin\Debug\netcoreapp2.0\DocsSenderApp.runtimeconfig.json
+D:\users\EAyupov\source\repos\DocsSenderApp\bin\Debug\netcoreapp2.0\DocsSenderApp.runtimeconfig.dev.json
+D:\users\EAyupov\source\repos\DocsSenderApp\bin\Debug\netcoreapp2.0\DocsSenderApp.dll
+D:\users\EAyupov\source\repos\DocsSenderApp\bin\Debug\netcoreapp2.0\DocsSenderApp.pdb
+D:\users\EAyupov\source\repos\DocsSenderApp\obj\Debug\netcoreapp2.0\DocsSenderApp.csprojAssemblyReference.cache
+D:\users\EAyupov\source\repos\DocsSenderApp\obj\Debug\netcoreapp2.0\DocsSenderApp.csproj.CoreCompileInputs.cache
+D:\users\EAyupov\source\repos\DocsSenderApp\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+D:\users\EAyupov\source\repos\DocsSenderApp\obj\Debug\netcoreapp2.0\DocsSenderApp.AssemblyInfoInputs.cache
+D:\users\EAyupov\source\repos\DocsSenderApp\obj\Debug\netcoreapp2.0\DocsSenderApp.AssemblyInfo.cs
+D:\users\EAyupov\source\repos\DocsSenderApp\obj\Debug\netcoreapp2.0\DocsSenderApp.dll
+D:\users\EAyupov\source\repos\DocsSenderApp\obj\Debug\netcoreapp2.0\DocsSenderApp.pdb
